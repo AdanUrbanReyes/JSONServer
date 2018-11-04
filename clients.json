@@ -1,11 +1,11 @@
 {
   "responses": [
-    { "codigoError" : 0, "mensaje" : "", campos['Nombre', 'Apellido Paterno', 'Apellido Materno', 'CU'] , clientes : [
-      {"Nombre", "Ayan", "Apellido Paterno" : "Urban", "Apellido Materno" : "Reyes", "CU" : "0101-2244-13711"},
-      {"Nombre", "Alizita", "Apellido Paterno" : "Rios", "Apellido Materno" : "Palacios", "CU" : "0101-2244-11731"},
-      {"Nombre", "Abigail", "Apellido Paterno" : "Martinez", "Apellido Materno" : "Lopez", "CU" : "0101-2244-1234"},
-      {"Nombre", "Alexa", "Apellido Paterno" : "Nicolas", "Apellido Materno" : "", "CU" : "0101-2244-56789"}
+    { "codigoError" : 0, "mensaje" : "", "campos" : ["Nombre", "Apellido Paterno", "Apellido Materno", "CU"] , "clientes" : [
+      {"Nombre" : "Ayan", "Apellido Paterno" : "Urban", "Apellido Materno" : "Reyes", "CU" : "0101-2244-13711"},
+      {"Nombre" : "Alizita", "Apellido Paterno" : "Rios", "Apellido Materno" : "Palacios", "CU" : "0101-2244-11731"},
+      {"Nombre" : "Abigail", "Apellido Paterno" : "Martinez", "Apellido Materno" : "Lopez", "CU" : "0101-2244-1234"},
+      {"Nombre" : "Alexa", "Apellido Paterno" : "Nicolas", "Apellido Materno" : "", "CU" : "0101-2244-56789"}
     ]},
-    { "codigoError" : -1, "mensaje" : "Lo setimos no se pudieron obtener los clientes", campos[] , clientes : [] }
+    { "codigoError" : -1, "mensaje" : "Lo setimos no se pudieron obtener los clientes", "campos" : [] , "clientes" : [] }
   ]
 }
